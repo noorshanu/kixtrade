@@ -2513,4 +2513,51 @@ span.color-2 {
   font-size: 3rem;
   line-height: 1.2;
 }
+
+.main-section .duration .kixbackgroundpicture2-1-2h6 {
+  width: 100%;
+  background-size: cover;
+  height: 61.8rem;
+  background-size: 157.114% 94.036%;
+  background-position: -10.2rem -0.0112rem;
+  background-image: url(assets/kixbackgroundpicture2-1-2t8.png);
+  background-repeat: no-repeat;
+  opacity: 0.2;
+
+}
+.foot{
+  margin: auto;
+}
+
+.main-section .footer{
+  display: flex !important;
+    flex-direction: column !important;
+}
+.flex{
+  align-items: center;
+  gap: 2rem;
+}
+
+.main-section .duration .section-5 {
+  width: 100%;
+  height: 9.5rem;
+  position: relative;
+  left: 0.5rem;
+  /* right: 10rem; */
+  top: -50rem;
+  align-items: center;
+  padding-right: 4rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-section .duration .section-5 .desc .title{
+  text-align: center;
+  right: 1rem;
+}
+.main-section .duration .desc3, .main-section .duration .desc2{
+  width: 80% !important;
+  text-align: center;
+  margin: auto;
+}
 }
